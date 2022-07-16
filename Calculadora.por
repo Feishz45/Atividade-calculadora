@@ -24,7 +24,7 @@ escreva("\nPara escolher a operação digite um dos seguintes sinais: (+) (-) (*
 
 
 
-//Caso o usuário digite um tipo de sinal a operação será referrente àquele sinal
+//Caso o usuário digite um tipo de sinal a operação será referente àquele sinal
 
 se (op== "+") {
 	res = n1+n2
